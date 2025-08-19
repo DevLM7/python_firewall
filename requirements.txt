@@ -1,0 +1,8 @@
+scapy
+ttkbootstrap
+plyer
+psutil
+geoip2
+pystray
+pandas
+matplotlib
