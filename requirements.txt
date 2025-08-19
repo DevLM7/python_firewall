@@ -6,3 +6,5 @@ geoip2
 pystray
 pandas
 matplotlib
+requests
+Pillow
